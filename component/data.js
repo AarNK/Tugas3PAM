@@ -1,0 +1,48 @@
+const DataPenerbangan = [
+    [
+        "Jakarta",
+        "Lampung",
+        "Palembang",
+        "Lombok",
+        "Aceh",
+        "Jambi",
+        "Papua",
+        "Surabaya",
+        "Yogyakarta",
+        "Palembang",
+    ],
+    [
+        "Lampung",
+        "Palembang",
+        "PangkalPinang",
+        "Bandung",
+        "Jakarta",
+        "Palembang",
+        "Pontianak",
+        "PangkalPinang",
+        "Jambi",
+        "Aceh",
+    ],
+    [
+        "01 Januari 2022",
+        "02 Januari 2022",
+        "03 Januari 2022",
+        "04 Januari 2022",
+        "05 Januari 2022",
+        "06 Januari 2022",
+    ],
+    [
+        "Garuda",
+        "Batik Air",
+        "Batik Air",
+        "Garuda",
+        "Lion Air",
+        "Batik Air",
+        "Lion Air",
+        "Garuda",
+        "Lion Air",
+        "Batik Air",
+    ],
+];
+
+export default DataPenerbangan;
